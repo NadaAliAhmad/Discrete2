@@ -1,0 +1,5 @@
+c:\users\raya\documents\visual studio 2015\Projects\project 2 (perfect numbers)\project 2 (perfect numbers)\bin\Debug\project 2 (perfect numbers).exe.config
+c:\users\raya\documents\visual studio 2015\Projects\project 2 (perfect numbers)\project 2 (perfect numbers)\bin\Debug\project 2 (perfect numbers).exe
+c:\users\raya\documents\visual studio 2015\Projects\project 2 (perfect numbers)\project 2 (perfect numbers)\bin\Debug\project 2 (perfect numbers).pdb
+c:\users\raya\documents\visual studio 2015\Projects\project 2 (perfect numbers)\project 2 (perfect numbers)\obj\Debug\project 2 (perfect numbers).exe
+c:\users\raya\documents\visual studio 2015\Projects\project 2 (perfect numbers)\project 2 (perfect numbers)\obj\Debug\project 2 (perfect numbers).pdb
